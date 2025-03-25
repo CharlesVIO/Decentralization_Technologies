@@ -1,0 +1,22 @@
+{
+    "https://e8ed-89-30-29-68.ngrok-free.app/predict": {
+        "balance": 1000,
+        "weight": 1.0
+    },
+    "https://a8b9-89-30-29-68.ngrok-free.app/predict": {
+        "balance": 1000,
+        "weight": 1.0
+    },
+    "https://f929-89-30-29-68.ngrok-free.app/predict": {
+        "balance": 1000,
+        "weight": 1.0
+    },
+    "https://6670-89-30-29-68.ngrok-free.app/predict": {
+        "balance": 1000,
+        "weight": 1.0
+    },
+    "https://f5e0-89-30-29-68.ngrok-free.app/predict": {
+        "balance": 1000,
+        "weight": 1.0
+    }
+}
